@@ -16,7 +16,7 @@ Ga naar de root van de geclonede map waar je `gulpfile.js` staat:
 `$ npm install`
 
 ## Gulp starten
-In de root van de map typ je:
+Als alle dependencies zijn geinstalleerd ga je naar de root van je map en typ je:
 
 `$ npm run start`
 
