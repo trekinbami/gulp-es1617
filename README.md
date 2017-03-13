@@ -4,7 +4,7 @@ Deze repository heeft een simpele Gulp taskrunner lopen, die ervoor zorgt dat on
 ## Repository clonen
 Ga naar Terminal of je commandline interface, navigeer naar je gewenste directory:
 
-`cd DIRECTORY-WAAR-JE-WILT-CLONEN`
+`$ cd DIRECTORY-WAAR-JE-WILT-CLONEN`
 
 `$ git clone git@github.com:trekinbami/gulp-es1617.git promises-workshop`
 
