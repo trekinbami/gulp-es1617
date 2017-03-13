@@ -7,8 +7,13 @@ Ga naar Terminal of je commandline interface, navigeer naar je gewenste director
 
 `$ cd DIRECTORY-WAAR-JE-WILT-CLONEN`
 
+
+Nu gaan we directory clonen in de map `promises-workshop`
+
 `$ git clone git@github.com:trekinbami/gulp-es1617.git promises-workshop`
 
+
+## NodeJs installeren
 Nu is de repository gecloned, en moeten we dependencies installeren. Zorg ervoor dat je NodeJs op je computer geinstalleerd hebt! Check [https://nodejs.org/en/](https://nodejs.org/en/) en installeer gewoon via de downloadable wizard. Als je NodeJs al hebt, update deze wizard je huidige versie.
 
 
@@ -25,4 +30,4 @@ Als alle dependencies zijn geinstalleerd ga je naar de root van je map en typ je
 
 
 ## Werkbestand
-Het bestand `/js/app.js` is ons werkbestand. Als je daarin iets aanpast, en opslaat, doet Gulp het automatisch compilen. Ga in je browser naar index.html en check het resultaat.
+Het bestand `/js/app.js` is ons werkbestand. Als je daarin iets aanpast, en opslaat, doet Gulp het automatisch compilen. Ga in je browser naar `index.html` (die ook in de root staat) en check het resultaat.
